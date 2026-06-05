@@ -7,28 +7,18 @@ assets for obsidian Vault
 
 <details><summary>ネオ東京シリーズ</summary><br>夜の東京をテーマにしたシリーズ。<br>ストックフォト向け。</details>
 
-| Project | ラフ | 線画 | 着色 | 色調整 |
-
-|----------|----------|----------|----------|----------|
-
-| Illustration_001 | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
+ | ラフ | 線画 | 着色 | 色調整 |
+|----------|----------|----------|----------|
+ | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
 
 
 
 # プロジェクト002
 
-
-
 <details><summary>ネオ東京シリーズ</summary><br>夜の東京をテーマにしたシリーズ。<br>ストックフォト向け。</details>
 
 
 
-| Project | ラフ | 線画 | 着色 | 色調整 |
-
-
-
-|----------|----------|----------|----------|----------|
-
-
-
-| Illustration_001 | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
+| ラフ | 線画 | 着色 | 色調整 |
+|----------|----------|----------|----------|
+| ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
