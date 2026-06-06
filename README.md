@@ -2,7 +2,7 @@
 
  | ラフ | 線画 | 着色 | 色調整 |
 |----------|----------|----------|----------|
- | <img src='[public/thumbnails/Illustration_001_ラフ_illustration001.png](https://picsum.photos/200)' width='120' />| ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
+ | <img src='https://picsum.photos/200) width='120' />| ![](https://picsum.photos/200) | ![](https://picsum.photos/200) | ![](https://picsum.photos/200) |
 
 
 
